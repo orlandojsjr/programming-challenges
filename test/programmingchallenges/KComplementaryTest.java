@@ -17,5 +17,4 @@ public class KComplementaryTest {
 		assertTrue(find(6, arr) == 7);
 		assertFalse(find(8, arr) == 1);
 	}
-
 }

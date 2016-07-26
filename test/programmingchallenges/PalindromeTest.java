@@ -15,7 +15,7 @@ public class PalindromeTest {
 		assertTrue(isPalindrome("Sore was I ere I saw Eros."));
 		assertTrue(isPalindrome("Never a foot too far, even."));
 		assertTrue(isPalindrome("A new order began, a more Roman age bred Rowena."));
-		
+
 		assertFalse(isPalindrome("notpalindrome"));
 		assertFalse(isPalindrome("x*******$$$a"));
 		assertFalse(isPalindrome(null));
