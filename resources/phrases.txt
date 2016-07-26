@@ -1,0 +1,9 @@
+Foobar Candy | Olympics 2012 | PGA | CNET | Microsoft Bing
+Foobar Candy | Olympics 2012 
+Foobar Candy | Teste | Google 
+Foobar Candy | Bing
+This Job is better with Hadoop | Google 
+This Job is better with Hadoop | Microsoft Bing
+This Job is better with Hadoop | CNET
+This Job is better with Hadoop | PGA
+This Job is better with Hadoop | Google 
